@@ -1,0 +1,33 @@
+*{
+    border: 0px;
+    margin: 0px;
+}
+body{
+    border: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.container{
+ /*border: 1px solid;*/
+width: 810px;
+}
+.card{
+    width: 25%;
+    height: 200px;
+}
+button{
+    margin-top: 15px;
+    background: transparent;
+    width: 100px;
+    margin-left: 30px;
+}
+td{
+    border: 1px solid;
+    height: 200px; 
+}
+tr{
+    height: 400px;
+}
+table{
+    border: 1px solid;
+}

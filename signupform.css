@@ -1,0 +1,28 @@
+*{
+    border: 0px;
+    margin: 0px;
+}
+body{
+    background-color: #0DCAF0;
+}
+.container{
+    background-color: white;
+    border: none;
+    margin-top: 20px;
+    width: 400px;
+    height: 90vh;
+    border-radius: 5px;
+}
+input{
+    height: 40px;
+    margin-bottom: 20px;
+}
+p,h3,a{
+    padding-top: 10%;
+    padding-bottom: 3%;
+    text-align: center;
+    text-decoration: none;
+}
+a{
+    padding-top: 0px;
+}

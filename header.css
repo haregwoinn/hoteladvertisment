@@ -1,0 +1,51 @@
+*{
+    box-sizing: border-box;
+}
+.nav-wrapper{
+    margin-left: px;
+    width: 100%;
+    height: 150px;
+    background-color: #0DCAF0;
+}
+li,a{
+    font-size: 15px;
+    text-decoration: none;
+    display: inline;
+    margin-left: 10px;
+    color: white;
+}
+ul{
+    position: absolute;
+    right: 3%;
+    top: 4%;
+}
+.col-auto{
+    width: 80%;
+    margin-left: 10px;
+}
+.num{
+    position: absolute;
+    left: 27%;
+    top:10%;
+    display: flex;
+    border:none;
+    width: 40%;
+}
+h1{
+    color: white;
+    position: absolute;
+    left: 7%;
+    top: 17%;
+    font-size: 70px;
+}
+.mn{
+    display: flex;
+}
+.card{
+    margin: 20px;
+}
+.page-footer{
+
+}
+
+

@@ -1,0 +1,15 @@
+.fa-solid{
+    color: red;
+}
+.material-symbols-outlined{
+    color:rgb(247, 247, 0);
+}
+.card{
+    text-align: center;
+}
+#topic{
+    font-size: 22px;
+}
+p{
+    font-size: small;
+}

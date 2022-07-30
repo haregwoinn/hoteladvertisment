@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+}
+.con{
+    display: flex;
+    flex-direction: row;
+}
+.col{
+    width: 25%;
+}
+#widecard{
+    margin: 0px;
+    display: flex;
+    flex-direction: row;
+}
+#lar{
+    margin-right: 0px;
+    border: 1px solid rgb(0, 0, 0,0.2);
+    width:60%;
+}
+#tallcard{
+    margin-left: 25%;
+}
+.imag{
+    width:50%;
+}
+.card-body{
+    text-align: center;
+}
+.room{
+    color: black;
+}
+li{
+    color: black;
+}
+span, .adress, #additionainfo {
+    margin-top: 10%;
+}
+#imago{
+    margin-top:15%;
+}
+
